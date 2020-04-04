@@ -6,7 +6,8 @@ Here you will find my little projects made on arduino. Feel free to have a look 
 
 - [NodeMCU-MQTT](https://github.com/Markuson/Arduino-projects/tree/master/NodeMCU-MQTT): NodeMCU simple example to comminicate with my home data server based on node-red.
 
--[WOT-Arduino](https://github.com/Markuson/WOTcontrol-project/tree/master/WOT-arduino): NodeMCU program that allows you to send and recibe I/O from a web page. Check out entire project at [WOTcontrol-project](https://github.com/Markuson/WOTcontrol-project) repository
+- [WOT-Arduino](https://github.com/Markuson/WOTcontrol-project/tree/master/WOT-arduino): NodeMCU program that allows you to send and recibe I/O from a web page. Check out entire project at [WOTcontrol-project](https://github.com/Markuson/WOTcontrol-project) repository
 
-**By:** Marc Usón Chiné
+**Bygit add .
+:** Marc Usón Chiné
 
