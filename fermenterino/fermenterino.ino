@@ -37,7 +37,7 @@ void setup()
     lcd.setCursor(0, 1);
     lcd.print("New:");
     lcd.setCursor(7, 1);
-    lcd.print(">>Act:");
+    lcd.print(">> SP:");
 }
 
 void loop()
